@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T07:38:24.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="wLa5eO4FMOU7JYzd28pG" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T07:39:29.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="gPXt7X_oor_RrKBL1aLy" version="21.3.7" type="github">
   <diagram name="第 1 页" id="f4Uu8eJawplDiNoMEJFQ">
-    <mxGraphModel dx="911" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="911" dy="508" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,28 +39,28 @@
         <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-12" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Lucida Console;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="320" y="620" width="86" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-13" value="摄像头实时采集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-13" value="摄像头实时采集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fillColor=#F8CECC;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="138" y="760" width="142" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-15" value="视频参数自适应选择模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-15" value="视频参数自适应选择模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="223" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;" edge="1" parent="1" source="Ffq1vbMqPe90Hvpq9Xvl-17" target="Ffq1vbMqPe90Hvpq9Xvl-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-17" value="环境状态信息&lt;br&gt;(S&lt;font style=&quot;font-size: 15px;&quot;&gt;t&lt;/font&gt;)统计" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-17" value="环境状态信息&lt;br&gt;(S&lt;font style=&quot;font-size: 15px;&quot;&gt;t&lt;/font&gt;)统计" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="50" y="990" width="112" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ffq1vbMqPe90Hvpq9Xvl-18" target="Ffq1vbMqPe90Hvpq9Xvl-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-18" value="封装推流" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-18" value="封装推流" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="610" y="854" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;" edge="1" parent="1" source="Ffq1vbMqPe90Hvpq9Xvl-19" target="Ffq1vbMqPe90Hvpq9Xvl-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-19" value="视频编码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-19" value="视频编码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="854" width="86.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-27" value="原始YUV数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;" vertex="1" parent="1">
@@ -91,7 +91,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-34" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;fontFamily=Lucida Console;" vertex="1" parent="1">
+        <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-34" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;fontFamily=Lucida Console;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="790" y="840" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ffq1vbMqPe90Hvpq9Xvl-36" value="数据包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
